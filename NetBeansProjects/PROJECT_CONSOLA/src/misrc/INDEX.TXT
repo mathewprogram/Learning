@@ -1,0 +1,15 @@
+========================================================
+Principal1: CODIGO ASCII
+Principal2: CONVERSION DECIMAL A BINARIO
+Principal3: CONVERSION BINARIO A DECIMAL
+Principal4: CONCATENAR CADENAS
+
+Principal6: Contar el numero de veces que aparece un 
+========================================================
+CAMBIO DE VERSION JAVA
+========================================================
+SERVIDOR(JSP + SERVLET): APACHE TOMCAT
+
+localhost:8080
+127.0.0.1:8080
+========================================================
